@@ -1,0 +1,8 @@
+1 - Importar la fuente de datos clientes.csv
+2 - Eliminar filas superiores
+3 - Usar la primera fila como cabecera
+4 - Cambiar nombres columnas
+5 - Eliminar filas no validas (repetidas...)
+6 - Configurar los tipos de datos
+
+7 - ¿Cuántos hijos pequeños (kids) tienen de media las personas casadas en nuestro conjunto de datos?
