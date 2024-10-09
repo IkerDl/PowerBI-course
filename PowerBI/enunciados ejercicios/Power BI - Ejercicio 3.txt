@@ -1,0 +1,11 @@
+¿Qué grupo educativo tiene más éxito en la campaña 1?
+
+¿Qué grupo educativo tiene más éxito en la campaña 2?
+
+¿Cómo es la evolución en el tiempo de la campaña 1 y de la campaña 2?
+
+1 - importar ficheros
+2 - limpiarlos etc. exhaustivamente
+3 - unificar (append) los 3 ficheros en uno
+4 - relacionar tablas en el modelo de datos
+5 - presentar datos en gráficas de tipo column para las dos primeras preguntas y de tipo line chart para la última pregunta...

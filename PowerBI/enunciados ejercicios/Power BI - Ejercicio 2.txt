@@ -1,0 +1,8 @@
+1 - Incluir archivo ventas.csv en el proyecto
+2 - Limpiarlo y hacer todas las tareas que haya que hacer
+3 - Hacer el ejercicio en una pestaña nueva
+
+4 - ¿Qué grupos educativos han comprado de media más productos de pescado?
+5 - ¿Qué grupos educativos han comprado de media más productos cárnicos?
+6 - ¿Qué grupos educativos representan la mayor parte de las ventas de productos de pescado total?
+7 - ¿Qué grupos educativos representan la mayor parte de las ventas de productos cárnicos en total?
