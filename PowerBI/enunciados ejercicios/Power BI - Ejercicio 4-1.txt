@@ -14,5 +14,5 @@ Tenemos que crear dos tablas de visualización con iconos a nuestra elección qu
 
 
 Preguntas a resolver:
-1) ¿Cuántos paises cumplen las condiciones de bonificación?
-2) ¿Cuántos paises cumplen las condiciones de penalización?
+1) ¿Cuántos países cumplen las condiciones de bonificación?
+2) ¿Cuántos países cumplen las condiciones de penalización?

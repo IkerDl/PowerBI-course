@@ -1,0 +1,10 @@
+Debemos de tener en el informe los nombres completos de los paises.
+
+Hacer un informe con los siguientes requisitos:
+
+1) Ver el número de éxitos ha tenido cada campaña (una representación óptima sería en una gráfica "stack bar char"
+2) Resumen de cuantas ventas han habido en cada categoría
+3) Todo esto debe poder filtrarse por educación, estado civil y país
+
+
+
