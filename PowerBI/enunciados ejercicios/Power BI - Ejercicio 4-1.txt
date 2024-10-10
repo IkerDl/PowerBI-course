@@ -1,0 +1,18 @@
+La empresa para la que hacemos el informe recibirá una bonificación por cada país que cumpla dos condiciones:
+
+1) La cantidad media de los vinos vendidos tiene que ser superior a 500
+2) La cantidad media de los productos de oro tiene que ser superior a 45
+
+
+La empresa no cumplirá los requisitos mínimos y tendrá que pagar una penalización contractual por cada país que cumpla las dos condiciones:
+
+1) La cantidad media de vinos vendidos sea inferior a 300
+2) La cantidad media de productos de oro vendidos sea inferior a 43
+
+
+Tenemos que crear dos tablas de visualización con iconos a nuestra elección que ayuden a ver para qué país se cumplen las condiciones de bonificación y penalización contractual.
+
+
+Preguntas a resolver:
+1) ¿Cuántos paises cumplen las condiciones de bonificación?
+2) ¿Cuántos paises cumplen las condiciones de penalización?
