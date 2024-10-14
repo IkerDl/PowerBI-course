@@ -1,0 +1,41 @@
+Nuestro cliente-jefe necesita varias visualizaciones nuevas:
+
+Añadir en:
+=============================================================================
+Bonus Study
+==============================================================================
+1) Desglose jerárquico de productos vendidos por educación y categoría 
+(¿Qué tipo de visualización sería la más adecuada?)
+2) Suma de campañas exitosas por país
+(¿Un Stacked colum chart?)
+
+==============================================================================
+
+
+(Crear página Details tomando como partida la página de Bonus Study)
+
+=============================================================================
+Details
+==============================================================================
+Crear visualización (¿una tabla?) con estos campos
+
+-id de cliente
+-Fecha de adquisición del cliente (Dt_Customer) 
+-Educación
+-Número de hijos
+-Estado civil
+-Año de nacimiento
+-Pais
+
+Otra visualización:
+Los 3 primeros grupos de educación por "campañas más exitosas" (suma de campañas) 
+(Elegir la visualización más adecuada...¿un gráfico de barras (Stacked Bad Chart)?)
+
+Para desplazarnos a la página de detalles utilizaremos el pais (Country) (Drill Through?)
+¿Mantenemos los filtros o no?
+==============================================================================
+
+
+ 
+
+ 
