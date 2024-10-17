@@ -1,0 +1,11 @@
+====================================================================================
+Este ejercicio lo vamos a hacer en el proyecto American Stores
+====================================================================================
+1) Crear una nueva pestaña llamada 
+2) Crear una visualización que nos muestre el Beneficio por categoría
+3) Crear una visualización que nos muestre el número de ventas por estado
+4) Crear un slicer que nos filtre por año
+5) Crear un botón que visualice el Beneficio por categoría y oculte las ventas por estado
+6) Crear un botón que viualice las venas por estado y oculte el beneficio por categoría
+7) Tenemos que conseguir que cuando utilicemos los botones del punto 5 y del punto 6 el slicer
+no se modifique

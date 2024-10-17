@@ -1,0 +1,11 @@
+1)Añadir una columna condicional. En esta columna debe poner "no" o "yes" dependiendo de si tiene hijos o no.
+
+2) Añadir un columna condicional:
+a) Si los ingresos son menores de 30.000: Low
+b) Si los ingresos están entre 30.000 y 45.000: Medium
+c) Si los ingresos están entre 45.000 y 65.000: High-Medium
+d) Si los ingresos superan los 65.000: High
+
+3) Habilitar un botón para hacer un Drill Through en la página de Bonus Study usando country.
+
+4) En la página de detalles crear una tarjeta con la cantidad total de productos comprados por el cliente top.
