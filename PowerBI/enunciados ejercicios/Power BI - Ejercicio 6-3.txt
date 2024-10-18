@@ -1,0 +1,8 @@
+Página Detail
+==============================================================================
+
+1) Crear un botón los 10 mejores clientes (cantidad de productos comprados)
+2) Crear otro botón que muestre todos los clientes de nuevo 
+
+Sugerencia: Para que el filtro (Drill Through) no se vea afectado por la actualización
+del bookmark deberíamos utilizar "Selected Visuals" en vez de "All Visuals"
