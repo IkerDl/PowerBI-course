@@ -1,0 +1,4 @@
+1) Ajustar el diseño / tema del informe
+
+2) Crear un tooltip en el que podamos ver (diagrama de barras?) la distribución de las personas
+según su nivel de estudios al pasar el ratón por encima del campo "CountryLong"
